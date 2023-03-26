@@ -2,8 +2,8 @@
 
 ## Tweet module
 
--> create module
-	-> Text
+- create module
+- - Text
 	-> Images
 -> Delete tweets
 -> Retweeting
