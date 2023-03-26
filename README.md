@@ -3,10 +3,10 @@
 ## Tweet module
 
 - create module
-- - Text
-	-> Images
--> Delete tweets
--> Retweeting
+  - Text
+  - Images
+- Delete tweets
+- Retweeting
 
-1. ./manage.py startapp tweets \
+1. ./manage.py startapp tweets \\
 2. Create data model
