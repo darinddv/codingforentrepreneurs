@@ -8,5 +8,9 @@
 - Delete tweets
 - Retweeting
 
-1. ./manage.py startapp tweets \\
+1. ./manage.py startapp tweets 
 2. Create data model
+```python
+class Tweet(models.Model):
+    content = models.TextField()
+```
